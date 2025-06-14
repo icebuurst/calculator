@@ -22,11 +22,3 @@ cd kalkulator_flutter
 flutter pub get
 flutter pub run flutter_native_splash:create
 flutter run
-
-
-## 👨‍💻 Identitas Pembuat
-Nama: William Dhante Setyawan
-
-Absen : 33
-
-Kelas: XI RPL 1
