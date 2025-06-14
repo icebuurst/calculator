@@ -24,7 +24,7 @@ flutter pub run flutter_native_splash:create
 flutter run
 
 
-👨‍💻 Identitas Pembuat
+## 👨‍💻 Identitas Pembuat
 Nama: William Dhante Setyawan
 
 Absen : 33
