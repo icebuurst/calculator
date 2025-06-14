@@ -1,5 +1,10 @@
 # 📱 Kalkulator Flutter
 
+## 🧑‍💻 Identitas Pembuat
+Nama : William Dhante Setyawan
+Absen : 33
+Kelas : XI RPL 1
+
 ## 📋 Deskripsi Aplikasi
 Aplikasi kalkulator dengan fitur:
 - Perhitungan multi-operator: `+`, `-`, `*`, `/`
